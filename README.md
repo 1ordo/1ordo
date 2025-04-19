@@ -39,14 +39,6 @@ Hit me up 👇
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ordo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 📎 [Check the resume](https://mohamedyousry.vercel.app/)  
 📫 mohamedyousry.work.dev@gmail.com  
 🧙‍♂️ Discord: `NotLordo`  
