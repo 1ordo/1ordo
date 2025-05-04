@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AFF6E&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Lordo!;AI+Engineer+%7C+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AFF6E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lordo!;AI+Engineer+%7C+Backend" alt="Typing SVG" />
 </p>
 
 I’m into building smart stuff with AI, writing clean backend code, and making things actually work.
