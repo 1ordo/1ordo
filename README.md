@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AFF6E&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Lordo!;AI+Engineer+%7C+Backend" alt="Typing SVG" />
 </p>
 
-I’m into building smart stuff with AI, writing clean backend code, and making things actually work.  
+I’m into building smart stuff with AI, writing clean backend code, and making things actually work.
 
 ---
 
@@ -16,12 +16,12 @@ I’m into building smart stuff with AI, writing clean backend code, and making 
 ---
 
 ### 📚 Always learning more about:
-Machine learning, AI dev, system design, and keeping my code from turning into spaghetti 🍝
+Machine learning, AI dev, system design, and keeping my code from turning into spaghetti 🍝, (low key i love spaghetti :D )
 
 ---
 
 ### 🧠 Skills I vibe with:
-`FastAPI`, `Python`, `Docker`, `LangChain`, `Flutter`, `Discord.py`, `PostgreSQL`, `API Dev`, `Llama.cpp`, `Automation`, `CI/CD`, `ML and Deep learning`, and more.
+`FastAPI`, `Python`, `Docker`, `LangChain`, `Flutter`, `Discord.py`, `PostgreSQL`, `API Dev`, `Llama.cpp`, `Automation`, `CI/CD`, `ML and Deep learning`, `n8n`, and more.
 
 ---
 
