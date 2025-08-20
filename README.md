@@ -45,3 +45,13 @@ Hit me up 👇
 
 👀 Visitors: ![visitors](https://komarev.com/ghpvc/?username=1ordo&style=flat&color=blue)
 
+
+### Finally, Watch my contribution snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ordo/1ordo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1ordo/1ordo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1ordo/1ordo/output/github-contribution-grid-snake.svg">
+</picture>
+
+
