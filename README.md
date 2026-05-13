@@ -10,10 +10,10 @@
 
 ---
 
-## 🛠️ Tech I Use Daily
+## 🛠️ What I Use Daily
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,flutter,docker,postgres,redis,linux,nginx,git,githubactions&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,flutter,react,nextjs,docker,postgres,redis,linux,nginx,git,githubactions&theme=light" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ---
 
-## 🧠 Tech I Know Well (Not Daily — for now)
+## 🧠 What I Know Well (Not Daily — for now)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,arduino,flask,django,pytorch,tensorflow,mysql,sqlite,react,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,arduino,flask,django,pytorch,tensorflow,mysql,sqlite&theme=light" />
 </p>
 
 <p align="center">
@@ -36,10 +36,6 @@
 ---
 
 ## 🔥 What I Build
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis&theme=light" />
-</p>
 
 - AI systems powered by **local & server-side LLMs**
 - **Llama.cpp** integrated into real applications
@@ -65,7 +61,6 @@
 - 🎧 I mess with music production  
 - 🎬 I edit better than I film  
 - 🧄 I burn garlic in under 2 seconds  
-- 🐛 Bugs appear when I enter the room  
 
 ---
 
