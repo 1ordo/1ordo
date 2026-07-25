@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 What I Know Well (Not Daily — for now)
+## 🧠 What I Know Well
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,arduino,flask,django,pytorch,tensorflow,mysql,sqlite&theme=light" />
