@@ -66,7 +66,7 @@
 
 ## 📎 Links
 
-- 🌐 Portfolio / Resume: https://mohamedyousry.vercel.app (might be slightly outdated :D )
+- 🌐 Portfolio / Resume: https://mohamedyousry.vercel.app
 - 📫 Email: mohamedyousry.work.dev@gmail.com  
 - 🧙‍♂️ Discord: **NotLordo**
 
